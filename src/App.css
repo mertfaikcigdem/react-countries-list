@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-light {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.bg-dark {
+  background-color: hsl(207, 26%, 17%);
+}
+
+.text-dark {
+  color: hsl(200, 15%, 8%);
+}
+
+.text-light {
+  color: hsl(0, 0%, 100%);
+}
+
+.App {
+  min-height: 100vh;
+}
